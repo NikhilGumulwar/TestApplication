@@ -7,6 +7,7 @@ namespace HelloGitHub
         {
             //Display Hello Git Hub
             Console.WriteLine("Hello Git Hub");
+            Console.WriteLine("Hello from Sri");
             // Keep the console window open in debug mode.
             //Enterkey to exit
 
