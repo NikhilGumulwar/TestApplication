@@ -5,6 +5,7 @@ namespace HelloGitHub
     {
         static void Main(string[] args)
         {
+            Console.Write("At last sync scuccess!!!!");
             //Display Hello Git Hub
             Console.WriteLine("Hello Git Hub");
             // Keep the console window open in debug mode.
