@@ -6,6 +6,7 @@ namespace HelloGitHub
         static void Main(string[] args)
         {
             Console.Write("At last sync scuccess!!!!");
+            Console.WriteLine("difficult!!");
             //Display Hello Git Hub
             Console.WriteLine("Hello Git Hub");
             Console.WriteLine("Hello from Sri");
